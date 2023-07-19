@@ -1,4 +1,4 @@
-# Generates the snake  
+Generates the snake  
       - uses: Platane/snk@master
         id: snake-gif
         with:
